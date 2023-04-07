@@ -1,7 +1,10 @@
 # Final-Project-Transforming-and-Analyzing-Data-with-SQL
 
 ## Project/Goals
-(fill in your description and goals here)
+
+The goals of this project are to clean the data, and also establish a QA Process to make sure
+that the cleaning has been done correctly and with some evidence that the cleaning has 
+improved the situation.
 
 ## Process
 ### (your step 1)
